@@ -15,6 +15,24 @@ class App extends Component {
         this.setState({[e.target.id]: e.target.value})
     }
 
+
+    // ::::::::: QUERIES :::::::::: //
+
+    // Create one user from form input
+
+    createUser() {}
+
+
+    // Fetch one single user from DB
+
+    getSingleUser() {}
+
+
+    // Fetch all the users
+
+    getUsers() {}
+
+
     render() {
         return (
             <div style={styles.container} className="App">
