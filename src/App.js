@@ -23,7 +23,7 @@ class App extends Component {
     createUser() {}
 
 
-    // Fetch one single user from DB
+    // Fetch one single user by name from DB
 
     getSingleUser() {}
 
